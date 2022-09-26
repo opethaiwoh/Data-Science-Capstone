@@ -25,8 +25,8 @@ Clustering Approach: To compare the similarities of two cities, we decided to ex
 
     XML: To separate data from presentation and XML stores data in plain text format.
 
-Geocoder: To retrieve Location Data.
+    Geocoder: To retrieve Location Data.
 
-Beautiful Soup and Requests: To scrap and library to handle http requests.
+    Beautiful Soup and Requests: To scrap and library to handle http requests.
 
-Matplotlib: Python Plotting Module.
+    Matplotlib: Python Plotting Module.
