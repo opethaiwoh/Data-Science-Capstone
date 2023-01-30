@@ -1,6 +1,6 @@
 # Business Problems
 
-The major purpose of this project, is to suggest a better neighborhood in a new city for the person who are shiffting there. Social presence in society in terms of like minded people. Connectivity to the airport, bus stand, city center, markets and other daily needs things nearby.
+The major purpose of this project, is to suggest a better neighborhood in a new city for the person who are shiffting there. 
 
     Sorted list of house in terms of housing prices in a ascending or descending order
     Sorted list of schools in terms of location, fees, rating and reviews
